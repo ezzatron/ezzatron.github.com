@@ -9,11 +9,13 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
 
-    background: url(/img/bg-flcl.jpg) no-repeat center center fixed;
+    background: url(/img/bg-flcl.jpg) center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: 100%;
     background-size: cover;
+    background-color: #928d9c;
 }
 
 /* width */
