@@ -5,5 +5,4 @@ jQuery(document).ready(function() {
             "container": "body"
         }
     );
-    jQuery.backstretch("/img/bg-flcl.jpg");
 });

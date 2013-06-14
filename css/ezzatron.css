@@ -8,13 +8,7 @@ html, html a {
 body {
     padding-top: 30px;
     padding-bottom: 30px;
-
-    background: url(/img/bg-flcl.jpg) center top fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-color: #928d9c;
+    background: url(/img/bg-flcl.jpg) no-repeat center top fixed;
 }
 
 /* width */
